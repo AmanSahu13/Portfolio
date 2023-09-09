@@ -173,6 +173,10 @@ nav{
 .menu-bar{
     display: none;
 }
+.img-logo{
+    width: 15%;
+    height: auto;
+}
 /* ---------------------------------End NavBar---------------------------------- */
 
 /* ------------------------ Start Header Section -----------------  */
