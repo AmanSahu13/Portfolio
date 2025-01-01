@@ -369,7 +369,7 @@ text-align:center;
 .skills-right{
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: 4rem;
 
 }
 .progess{
